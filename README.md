@@ -19,7 +19,7 @@ It includes a header with an image logo, navigation menu, hero section, and foot
 2. Open `index.html` in your browser OR open it with **Live Server** in VS Code.
 
 ## 🖼️ Screenshot
-E:\intership web dev\Day_01\img\Screenshot 2025-11-13 123439.png
+![Website Preview](img\Screenshot 2025-11-13 123439.png)
 
 ## 🎯 Learning Outcome
 After completing this task, I learned:
